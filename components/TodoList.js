@@ -1,7 +1,7 @@
 import React from 'react'
 import Todo from './Todo'
 
-let TodoList = ({ todos,onTodoList }) =>
+let TodoList = ({ todos,onTodoClick }) =>
 {
 	return(	
 	<ul>
